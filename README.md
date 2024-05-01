@@ -1,20 +1,23 @@
-# Hello, I'm Mabrouka!
+# Hello, I'm Bouka!
 
-I'm currently pursuing a PhD in Machine Learning, specializing in medical diagnosis. My work leverages advanced algorithms to improve diagnostic processes and patient outcomes. Welcome to my GitHub profile!
+I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.net/enssea/portes/index.html) & [UCO](https://www.uco.es/), specializing in Handling the class imbalance issue in medical diagnosis datasets.
 
 ## 🎓 PhD Research
 - **Topic:** Machine Learning for Medical Diagnosis
 - **Areas of Study:**
-  - Data Mining: Extracting valuable insights from large datasets.
-  - Imbalanced Classification: Developing methods to handle datasets with uneven class distributions.
-  - Medical Diagnosis: Enhancing diagnostic accuracy using machine learning.
-  - Evolutionary Learning: Applying evolutionary algorithms to optimize learning processes.
+  - Data Mining, Imbalanced Classification, Medical Diagnosis, Evolutionary Learning.
+- **Previous Projects:**
+  - Proposing a Genetic Algorithm-based Data Selection for Imbalanced Medical Datasets
+  - Survey on Machine Learning Methods for Diabetes Diagnosis
+- **Current Projects:**
+    - Association Rules-Based Feature Selection for Imbalanced Classification
 
+## 🛠️ Master Research
+- All the master-related code: 
+- Modelling FTIR Spectral Data for Cancer Tumor Detection
 
-## 🔍 Current Interests
-- I am deeply interested in the potential of machine learning to revolutionize medical diagnostics.
-- Currently exploring how evolutionary algorithms can be integrated with machine learning models to optimize performance in complex diagnostic tasks.
-- How should statistical methods be considered when handling data issues and developed to address large datasets.
+## 🌱 Areas of Interest
+- Conformal Prediction, Statistical ML, Causal Inference.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mabroukasalmi/)
