@@ -10,14 +10,19 @@ I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.n
   - Proposing a Genetic Algorithm-based Data Selection for Imbalanced Medical Datasets
   - Survey on Machine Learning Methods for Diabetes Diagnosis
 - **Current Projects:**
-    - Association Rules-Based Feature Selection for Imbalanced Classification
+    - Association Rules-Based Feature Selection for Imbalanced Classification- In progress
 
 ## 🛠️ Master Research
-- All the master-related code: 
-- Modelling FTIR Spectral Data for Cancer Tumor Detection
+- All the master-related code: [MUICE](https://github.com/Bouka12/MUICE)
+- [Modelling FTIR Spectral Data for Cancer Tumor Detection](https://github.com/Bouka12/FITR-Spectrocopy-Analysis-CancerDiagnosis) -In progress
+## ☂️ Side Projects:
+- [Resampling Methods for Imbalanced Data Classification](https://github.com/Bouka12/Resampling-Methods-for-Imbalanced-Data-Classification)
+- [Computational Neuroscience Summer Course](https://github.com/Omar-Saad-ELGharbawy/NMA_Computational_NeuroScience_Project)
+- [Deep Learning Summer Course](https://github.com/br10cf/Neuromatch_Brain_Tumor)
+- [SHAI Artificial Intelligence Training](https://github.com/Reem-AbuFarah/First_Project)
 
 ## 🌱 Areas of Interest
-- Conformal Prediction, Statistical ML, Causal Inference.
+- [Conformal Prediction](https://github.com/Bouka12/Conformal-Prediction-for-Imbalanced-data), Statistical ML, Causal Inference.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mabroukasalmi/)
