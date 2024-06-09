@@ -22,7 +22,7 @@ I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.n
 - [SHAI Artificial Intelligence Training](https://github.com/Reem-AbuFarah/First_Project)
 
 ## 🌱 Areas of Interest
-- [Conformal Prediction](https://github.com/Bouka12/Conformal-Prediction-for-Imbalanced-data), Statistical ML, Causal Inference.
+- [Conformal Prediction](https://github.com/Bouka12/Conformal-Prediction-for-Imbalanced-data), Pattern Mining, Explainable-AI.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mabroukasalmi/)
