@@ -4,17 +4,15 @@ I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.n
 
 ## 🎓 PhD Research
 - **Topic:** Machine Learning for Medical Diagnosis
-- **Areas of Study:**
-  - Data Mining, Imbalanced Classification, Medical Diagnosis, Evolutionary Learning.
+- **Research Interests:**
+  - Data Mining, Imbalanced Learning, Medical Diagnosis, Evolutionary Learning, Feature selection, Data selection.
 - **Previous Projects:**
   - Proposing a Genetic Algorithm-based Data Selection for Imbalanced Medical Datasets
   - Survey on Machine Learning Methods for Diabetes Diagnosis
-- **Current Projects:**
-    - Association Rules-Based Feature Selection for Imbalanced Classification- In progress
 
 ## 🛠️ Master Research
 - All the master-related code: [MUICE](https://github.com/Bouka12/MUICE)
-- [Modelling FTIR Spectral Data for Cancer Tumor Detection](https://github.com/Bouka12/FITR-Spectrocopy-Analysis-CancerDiagnosis) -In progress
+- [Enhancing Time Series Classification](https://github.com/Bouka12/code_tfm)
 ## ☂️ Side Projects:
 - [Resampling Methods for Imbalanced Data Classification](https://github.com/Bouka12/Resampling-Methods-for-Imbalanced-Data-Classification)
 - [Computational Neuroscience Summer Course](https://github.com/Omar-Saad-ELGharbawy/NMA_Computational_NeuroScience_Project)
@@ -22,7 +20,7 @@ I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.n
 - [SHAI Artificial Intelligence Training](https://github.com/Reem-AbuFarah/First_Project)
 
 ## 🌱 Areas of Interest
-- [Conformal Prediction](https://github.com/Bouka12/Conformal-Prediction-for-Imbalanced-data), Pattern Mining, Explainable-AI.
+- [Conformal Prediction](https://github.com/Bouka12/Conformal-Prediction-for-Imbalanced-data), Data-Centric AI, Explainable-AI, Health informatics.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/mabroukasalmi/)
