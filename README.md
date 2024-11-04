@@ -1,11 +1,11 @@
 # Hello, I'm Bouka!
 
-I'm currently pursuing a PhD in Machine Learning @ [ENSSEA](https://www.enssea.net/enssea/portes/index.html) & [UCO](https://www.uco.es/), specializing in Handling the class imbalance issue in medical diagnosis datasets.
+Researcher in Data-Centric AI with a focus on class imbalance and synthetic data.
 
-## 🎓 PhD Research
-- **Topic:** Machine Learning for Medical Diagnosis
+## 🎓 Research
+- **Topic:** data-centric AI
 - **Research Interests:**
-  - Data Mining, Imbalanced Learning, Medical Diagnosis, Evolutionary Learning, Feature selection, Data selection.
+  - Data Mining, Imbalanced Learning, Synthetic Data, Evolutionary Learning, Feature selection, Data selection.
 - **Previous Projects:**
   - Proposing a Genetic Algorithm-based Data Selection for Imbalanced Medical Datasets
   - Survey on Machine Learning Methods for Diabetes Diagnosis
